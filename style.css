@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    padding: 11px 0px 10px 0px;
+    height: 26px;
+}
+
+nav a{
+    padding: 6px 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-size: medium;    
+}
+
+nav a:hover{
+    text-decoration: underline;
+    text-decoration: none;
+    color: #D894D9;
+    transition: 0,2ms;
+}
+
+.banner{
+    height: 95vh;
+    background:linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(imagem/background.gif);
+}
+
+section > div img{
+    width: 69%;
+    padding-right: 53px;
+}
+
+section > div{
+    
+    background-color: #ffffff;
+    width: 48%;
+    height: 42%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+section > div > h1{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 60px;
+}
+
+section > div > h2{
+    color: #000000;
+    font-size: 58px;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+main{
+    width: 48%;
+    height: 4%;
+    text-align: center; 
+    padding-top: 2%;   
+}
+
+main > a{
+    color: rgb(255, 255, 255);
+    padding: 8px 30px;
+    text-decoration: none;
+    margin: 0px 41px 30px 0px;
+    background-color: black;
+    border-radius: 10px;
+    font-size: larger;
+}
+
+main > a:hover{
+    text-decoration: underline;
+    text-decoration: none;
+    color: #D894D9;   
+}
+
+nav > a > abbr > img {
+    padding: 0px 13px 0px 0px;
+    float: right;
+}
+
+section > footer{
+    font-size: 12px;
+    margin-top: 393px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.droplist{
+    
+
+    
+    
+
+    
+}
+
+
+
+
+
+
+
